@@ -25,10 +25,10 @@ I'm a passionate full-stack web developer from Morocco with a keen interest in b
 
 Here are some of the projects I’ve worked on:
 
-### [Airbnb Clone](https://raw.githubusercontent.com/Abdali21/Abdali21/main/images/airbnb.PNG)
+### [Airbnb Clone](https://vercel.com/abdalis-projects-4d9edd40/next-bnb)
 An Airbnb clone project built with Next.js and Mapbox, showcasing dynamic listings and interactive maps.
 
-![Airbnb Clone][(https://via.placeholder.com/600x300?text=Airbnb+Clone](https://raw.githubusercontent.com/Abdali21/Abdali21/main/images/airbnb.PNG))
+![Airbnb Clone](https://raw.githubusercontent.com/Abdali21/Abdali21/main/images/airbnb.PNG)
 
 ### [E-commerce Website](#)
 An online store with features like product listings, shopping cart, and checkout functionality.
@@ -38,7 +38,7 @@ An online store with features like product listings, shopping cart, and checkout
 ### [Learning Platform](#)
 A platform for learning programming with various resources and interactive features.
 
-![Learning Platform](https://via.placeholder.com/600x300?text=Learning+Platform)
+![Learning Platform](https://github.com/Abdali21/Abdali21/blob/main/images/learning.PNG)
 
 ## 📫 Connect with Me
 
