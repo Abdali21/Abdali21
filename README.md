@@ -1,4 +1,4 @@
-# Hi there, I'm Abdali Houmaidi 👋
+# Hi there, I'm Abdelali Houmaidi 👋
 
 I'm a passionate full-stack web developer from Morocco with a keen interest in building dynamic and responsive web applications. I specialize in both frontend and backend development, using a variety of modern technologies and frameworks to bring innovative ideas to life.
 
