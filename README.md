@@ -30,12 +30,12 @@ An Airbnb clone project built with Next.js and Mapbox, showcasing dynamic listin
 
 ![Airbnb Clone](https://raw.githubusercontent.com/Abdali21/Abdali21/main/images/airbnb.PNG)
 
-### [E-commerce Website](#)
+### [E-commerce Website](https://houmaidishop.vercel.app/)
 An online store with features like product listings, shopping cart, and checkout functionality.
 
 ![E-commerce Website](https://github.com/Abdali21/Abdali21/blob/main/images/houmaidishop.PNG)
 
-### [Learning Platform](#)
+### [Learning Platform](https://vercel.com/abdalis-projects-4d9edd40/learning-platform)
 A platform for learning programming with various resources and interactive features.
 
 ![Learning Platform](https://github.com/Abdali21/Abdali21/blob/main/images/learning.PNG)
