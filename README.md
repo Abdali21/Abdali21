@@ -25,7 +25,7 @@ I'm a passionate full-stack web developer from Morocco with a keen interest in b
 
 Here are some of the projects I’ve worked on:
 
-### [Airbnb Clone](https://vercel.com/abdalis-projects-4d9edd40/next-bnb)
+### [Airbnb Clone](https://vercel.com/abdalis-projects-4d9edd40/learning-platform)
 An Airbnb clone project built with Next.js and Mapbox, showcasing dynamic listings and interactive maps.
 
 ![Airbnb Clone](https://raw.githubusercontent.com/Abdali21/Abdali21/main/images/airbnb.PNG)
