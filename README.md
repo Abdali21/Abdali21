@@ -43,7 +43,7 @@ A platform for learning programming with various resources and interactive featu
 ## 📫 Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelali-houmaidi-72b123293/)
-- [Portfolio](#) *(Coming Soon)*
+- [Portfolio](https://abdelalihoumaidi.com/) 
 
 Feel free to reach out if you have any questions or just want to connect!
 ---
